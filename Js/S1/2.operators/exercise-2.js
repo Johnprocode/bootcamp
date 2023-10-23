@@ -1,2 +1,1 @@
-let division = 10 / 2;
-alert(division);
+alert(10 / 2);

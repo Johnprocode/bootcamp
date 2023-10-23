@@ -1,5 +1,5 @@
 let firstName = 'Jon';
 let lastName = 'Snow';
 let age = '24'; 
-console.log('soy ' + firstName + ' ' + lastName + ' tengo ' + age + 
+console.log('Hola soy  ' + firstName + ' ' + lastName + ' tengo ' + age + 
 ' años y me gustan los lobos ');
