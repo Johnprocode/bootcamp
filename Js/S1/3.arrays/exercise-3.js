@@ -1,2 +1,2 @@
-const cars = ["Saab", "Volvo", "BMW"];
+const cars = ['Saab', 'Volvo', 'BMW'];
 alert(cars.length);
