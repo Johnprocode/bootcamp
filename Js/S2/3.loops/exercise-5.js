@@ -14,3 +14,5 @@ for(toy of toys){
 }
 
 console.log(popularToys);
+
+//-- este ejercicio tengo que darle una repasada, tengo algo en la sintaxis - NO TRABAJAs
